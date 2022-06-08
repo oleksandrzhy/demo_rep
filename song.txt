@@ -4,6 +4,5 @@ third
 123
 two more lines
 
-new lines
-/////
-weqweqw
+new text
+////////////////
