@@ -1,2 +1,2 @@
 # demo_rep
-content
+Hi, it's my repository with tasks I did as a student of Automation Quality Assurance at Epam.
